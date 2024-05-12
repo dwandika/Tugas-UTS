@@ -1,4 +1,4 @@
-
+package uts;
 public class Problem2 {
 
     public static int areaOrPerimeter(int l, int w) {
